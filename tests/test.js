@@ -5,7 +5,7 @@ test('Verifica se esta se apresentando corretamente', () => {
 });
 
 test('Testa soma', () => {
-  expect(util.soma(2, 4)).toBe(7);
+  expect(util.soma(2, 4)).toBe(6);
 });
 
 test('Testa subtracao', () => {
